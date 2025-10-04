@@ -3,7 +3,7 @@
 This is the official repository for the paper:
 > **JEPA-T: Joint-Embedding Predictive Architecture with Text Fusion for Image Generation**
 >
-> Siheng Wang\*<sup>†</sup>, Zhengdao Li\*, Yanshu Li, Canran Xiao, Haibo Zhan, Zhengtao Yao, Xuzhi Zhang,  Jiale Kang,  Linshan Li,  Weiming Liu,  Zhikang Dong,  Jifeng Shen<sup>#</sup>,  Piotr Koniusz <sup>#</sup>
+> Siheng Wang\*<sup>†</sup>, Zhengtao Yao\*, Zhengdao Li, Junhao Dong, Yanshu Li, Yikai Li, Linshan Li, Haoyan Xu, Yijiang Li, Zhikang Dong, Huacan Wang,  Jifeng Shen<sup>#</sup>
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
 >
